@@ -1,0 +1,39 @@
+form{
+  margin-top: 60px;
+  margin-bottom: 50px;
+}
+form input{
+  width: 90%;
+  height: 30px;
+  margin: auto;
+  margin-left: 60px;
+}
+form input{
+  margin-bottom: 8px;
+}
+form label{
+  margin-top: 50px;
+  font-size: 40px;
+  font-family: montserrat;
+  text-align: center; 
+  margin-left: 60px;
+}
+
+textarea{
+    width: 90%;
+  margin: auto;
+  margin-left: 60px;
+  height: 50px;
+}
+#Enviar{
+      width: 90%;
+  margin: auto;
+  height: 30px;
+  margin-left: 60px;
+  background-color: #0082e6;
+  color: white;
+  border: 0;
+}
+#Enviar:hover{
+  background: #1b9bff;
+}
